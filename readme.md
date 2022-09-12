@@ -9,4 +9,4 @@ Olá, meu nome é Thiago. Sou graduando em Engenharia de Software e estou me apr
 Obs: Este é um projeto criado com a ajuda de um vídeo do <a href="https://www.youtube.com/c/dicasparadevs">Felipe Rocha</a>.
 
 
-<img src="./exemple" alt="exemple">
+<img src="./exemple.png" alt="exemple">
