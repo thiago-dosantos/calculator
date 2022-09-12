@@ -1,3 +1,5 @@
+# Calculator by Thiago (HTML/CSS/JS)
+
 Hello, my name is Thiago. I'm graduating in Software Engineering and I'm improving myself in programming, I made this calculator in HTML/CSS and JS with the intention of improving my skills with the languages in question and on the frontend.
 
 Note: This is a project created with the help of a video by <a href="https://www.youtube.com/c/dicasparadevs">Felipe Rocha</a>.
