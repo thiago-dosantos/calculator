@@ -7,3 +7,6 @@ PT-BR
 Olá, meu nome é Thiago. Sou graduando em Engenharia de Software e estou me aprimorando em programação, eu fiz essa calculadora em HTML/CSS e JS com intenção de aprimorar minhas habilidades com linguagens em questão e no frontend.
 
 Obs: Este é um projeto criado com a ajuda de um vídeo do <a href="https://www.youtube.com/c/dicasparadevs">Felipe Rocha</a>.
+
+
+<img src="./exemple" alt="exemple">
